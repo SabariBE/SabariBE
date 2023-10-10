@@ -18,7 +18,7 @@ What You'll Find Here
 Let's Connect.
 
 📧 Email: 927621bec168@mkce.ac.in
-💼 LinkedIn: linkedin.com/in/sabari-j-52534427b
+💼 LinkedIn: Sabari J
 <!---
 SabariBE/SabariBE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
